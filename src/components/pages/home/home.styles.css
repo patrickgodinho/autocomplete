@@ -1,0 +1,10 @@
+.home-container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin-top: 2em;
+}
+
+.home-content {
+  width: 768px;
+}
