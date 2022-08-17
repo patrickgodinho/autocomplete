@@ -5,3 +5,7 @@
   border-bottom: 1px solid black;
   align-items: center;
 }
+
+.suggestion-container:hover{
+  background-color: darkgrey;
+}
